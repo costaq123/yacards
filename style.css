@@ -40,7 +40,7 @@ footer{
     text-align: center;
     height: 100%;
     transform-style: preserve-3d;
-    transition: tranform 300ms ease-in-out;
+    transition: transform 300ms ease-in-out;
 }
 
 .conteudo-cartao h3{
