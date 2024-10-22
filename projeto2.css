@@ -43,7 +43,7 @@ footer{
 .conteudo-cartao{
     padding: 40px;
     background-color: var(--cartão-frente);
-    box-shadow: 5px 2px 15px var(--preto);
+    box-shadow: 2px 2px 15px var(--preto);
 }
 
 
