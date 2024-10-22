@@ -33,4 +33,15 @@ footer{
     width: 100%;
     text-align: center;
 }
+#container{
+    display: grid;
+    gap: 3rem;
+    padding: 20px;
+}
 
+
+.conteudo-cartao{
+    padding: 40px;
+    background-color: var(--cartão-frente);
+    box-shadow: 2px 2px 2px var(--preto);
+}
