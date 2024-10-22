@@ -45,3 +45,8 @@ footer{
     background-color: var(--cartão-frente);
     box-shadow: 2px 2px 15px var(--preto);
 }
+
+
+.conteudo-cartao:hover{
+    transform: scale(1.05);
+}
