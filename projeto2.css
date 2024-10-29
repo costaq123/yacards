@@ -46,9 +46,15 @@ footer{
     box-shadow: 2px 2px 15px var(--preto);
     border: 1px solid var(--preto);
     border-radius: 15px;
+    cursor: pointer;
 }
 
 
 .conteudo-cartao:hover{
     transform: scale(1.05);
+} 
+
+.respota-cartao{
+    background-color: var(--cartao-verso);
+    color: var(--branco);
 }
